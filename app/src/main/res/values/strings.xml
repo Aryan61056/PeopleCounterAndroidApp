@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">People counter</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="click_plus_or_minus_button_for_people_counter_to_start">Click plus or minus button for people counter to start</string>
+    <string name="people_counter">People Counter</string>
+    <string name="max_number_of_people">Max Number of People:</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="click_the_plus_or_minus_button_for_people_counter_to_start">Click the plus or minus button for people counter to start</string>
+
+</resources>

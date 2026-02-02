@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/asap</item>
+        <item>@font/asap_medium</item>
+        <item>@font/asul</item>
+        <item>@font/cambay</item>
+        <item>@font/crete_round</item>
+        <item>@font/droid_sans</item>
+        <item>@font/marmelad</item>
+    </array>
+</resources>
